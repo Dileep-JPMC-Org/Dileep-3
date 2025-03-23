@@ -1,2 +1,5 @@
-pool: {ns1, ns2, ns3}
-autoscale: True
+{
+  "name": "1",
+  "pool": "ns1", "ns2", "ns3"
+  "autoscale": "true"
+}
