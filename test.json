@@ -1,0 +1,2 @@
+pool: {ns1, ns2, ns3}
+autoscale: True
