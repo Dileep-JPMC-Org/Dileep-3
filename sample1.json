@@ -4,7 +4,7 @@
     "how": false,
     "graph": false,
     "camp": 929234312,
-    "plural": "settle"
-	"pool": "ns1"
-	"autoscale": "true"
+    "plural": "settle",
+    "pool": "ns1",
+    "autoscale": "true"
   }
